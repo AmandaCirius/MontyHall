@@ -1,3 +1,8 @@
+package montyhall;
+
+import montyhall.model.Box;
+import montyhall.model.Score;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,5 @@
+import montyhall.model.Score;
+import montyhall.MontyHall;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

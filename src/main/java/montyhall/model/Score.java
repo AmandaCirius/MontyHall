@@ -1,3 +1,5 @@
+package montyhall.model;
+
 public class Score {
     private int stick;
     private int change;
